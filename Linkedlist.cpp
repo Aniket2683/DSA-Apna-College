@@ -123,4 +123,5 @@ int main()
     deleteNode(head, 1);
     display(head);
     return 0;
+    
 }
